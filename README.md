@@ -10,7 +10,7 @@ Hi there, I'm **Jaeyunn**, a **AOS Developer** 🚀 from Seoul, Korea.
 - 🤔 My interests are concurrency & parallel programming.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [wodbs135@gmail.com](mailto:wodbs135@gmail.com).
-- 📝 See my [Resume](https://www.notion.so/ca54de7d329d4b7ba5dcce3875f20105) to get more info.
+<!--- 📝 See my [Resume](https://www.notion.so/ca54de7d329d4b7ba5dcce3875f20105) to get more info.-->
 
 
 **Languages and Tools:**  
