@@ -29,6 +29,7 @@ Hi there, I'm **Jaeyunn**, a **AOS Developer** 🚀 from Seoul, Korea.
 <img src="https://github-readme-stats.vercel.app/api?username=jaeyunn15&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaeyunn15's GitHub Stats">
 
 ⭐️ From [jaeyunn15](https://github.com/jaeyunn15)
+👈 Follow Me 👻
 
 
 <br> <img src="https://komarev.com/ghpvc/?username=jaeyunn15&color=blueviolet"> <br/>
